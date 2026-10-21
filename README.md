@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kamran00786/Kamran00786/main/1786855905148.jpg" alt="Engineering workflow: MEMS sensor design, cleanroom fabrication, CAD, assembled sensing system, and web-based instrument control" width="100%" />
-</p>
-
 <h1 align="center">Compact Impedance Sensing System Platform</h1>
 
 <p align="center">
@@ -27,12 +23,12 @@ The **Compact Impedance Sensing System Platform** combines MEMS biosensor fabric
 
 A **Raspberry Pi 5** hosts the Python/Django web interface and coordinates experiments. It communicates through **UART** with a **Raspberry Pi 4** hardware controller responsible for acquisition and device operations. The platform integrates the sensor-contact fixture, measurement electronics, acquisition workflow, data analysis, and result reporting.
 
-### Project Highlights
 
-- **End-to-end engineering:** From MEMS sensor layout and fabrication to an assembled, software-controlled sensing instrument.
-- **Mechanical design:** SolidWorks and Autodesk Fusion 360 CAD, instrument enclosure layout, and custom 3D-printed supporting components.
-- **Embedded integration:** Raspberry Pi 5-to-Pi 4 UART communication connecting a browser-based interface to physical hardware.
-- **Scientific measurements:** Impedance acquisition, calibration-related workflows, multi-electrode data processing, visualization, and reporting.
+## System Overview — From MEMS Sensor to Impedance Measurements
+
+![Compact Impedance Sensing System Platform](github02.png)
+
+*Figure 1. Compact impedance sensing instrument with its custom enclosure, integrated touchscreen interface, and sensor/electronics access points. The platform combines MEMS-based sensing, embedded hardware control, and web-based measurement workflows.*
 
 ## Engineering Workflow: From Sensor Design to Instrumentation
 
