@@ -1,4 +1,4 @@
-<h1 align="center">Compact Impedance Sensing System Platform</h1>
+<h1 align="center">Web-Based Compact Impedance Sensing System Platform</h1>
 
 <p align="center">
   <strong>MEMS Biosensors · Scientific Instrumentation · Embedded Systems · Hardware–Software Integration</strong>
